@@ -31,3 +31,4 @@ D:\UMH\poo2\UMH-POO\GarajeMVC\GarajeMVC\obj\Debug\net8.0\refint\GarajeMVC.dll
 D:\UMH\poo2\UMH-POO\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.pdb
 D:\UMH\poo2\UMH-POO\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.genruntimeconfig.cache
 D:\UMH\poo2\UMH-POO\GarajeMVC\GarajeMVC\obj\Debug\net8.0\ref\GarajeMVC.dll
+D:\UMH\poo2\UMH-POO\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.sourcelink.json

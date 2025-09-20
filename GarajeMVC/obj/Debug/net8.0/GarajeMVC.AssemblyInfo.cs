@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GarajeMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+007d603a64a82c1e1cea680133a32f84cdbb9b67")]
 [assembly: System.Reflection.AssemblyProductAttribute("GarajeMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GarajeMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

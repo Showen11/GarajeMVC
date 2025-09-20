@@ -6,12 +6,7 @@ namespace GarajeMVC.Controllers
 {
     public class HomeController : Controller
     {
-        public class PersonaController : Controller
-        {
-            
-
-           
-        }
+       
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -23,9 +18,9 @@ namespace GarajeMVC.Controllers
         {
             Garage miGaraje = new Garage(1, "Owen Alexander Amador Padilla", 10, 2);
 
-            miGaraje.IngresarAuto(new Auto(1, "Toyota", "HCH-123"));
-            miGaraje.IngresarAuto(new Auto(2, "Honda", "FKS-456"));
-            miGaraje.IngresarAuto(new Auto(3, "Hyundai", "FCB-789"));
+            miGaraje.IngresarAuto(new Auto(1, "Toyota", "HCH-1232"));
+            miGaraje.IngresarAuto(new Auto(2, "Honda", "FKS-4561"));
+            miGaraje.IngresarAuto(new Auto(3, "Hyundai", "FCB-7895"));
             return View(miGaraje);
         }
 

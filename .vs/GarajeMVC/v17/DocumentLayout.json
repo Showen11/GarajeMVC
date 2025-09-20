@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\UMH\\poo2\\UMH-POO\\GarajeMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65B59B11-F754-46D2-B84D-9EB5490B880F}|GarajeMVC\\GarajeMVC.csproj|d:\\umh\\poo2\\umh-poo\\garajemvc\\garajemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65B59B11-F754-46D2-B84D-9EB5490B880F}|GarajeMVC\\GarajeMVC.csproj|solutionrelative:garajemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65B59B11-F754-46D2-B84D-9EB5490B880F}|GarajeMVC\\GarajeMVC.csproj|d:\\umh\\poo2\\umh-poo\\garajemvc\\garajemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B59B11-F754-46D2-B84D-9EB5490B880F}|GarajeMVC\\GarajeMVC.csproj|solutionrelative:garajemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{65B59B11-F754-46D2-B84D-9EB5490B880F}|GarajeMVC\\GarajeMVC.csproj|d:\\umh\\poo2\\umh-poo\\garajemvc\\garajemvc\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B59B11-F754-46D2-B84D-9EB5490B880F}|GarajeMVC\\GarajeMVC.csproj|solutionrelative:garajemvc\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B59B11-F754-46D2-B84D-9EB5490B880F}|GarajeMVC\\GarajeMVC.csproj|d:\\umh\\poo2\\umh-poo\\garajemvc\\garajemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65B59B11-F754-46D2-B84D-9EB5490B880F}|GarajeMVC\\GarajeMVC.csproj|solutionrelative:garajemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\UMH\\poo2\\UMH-POO\\GarajeMVC\\GarajeMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GarajeMVC\\Views\\Home\\Index.cshtml",
@@ -43,39 +43,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\UMH\\poo2\\UMH-POO\\GarajeMVC\\GarajeMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GarajeMVC\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\UMH\\poo2\\UMH-POO\\GarajeMVC\\GarajeMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "GarajeMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T01:33:21.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Auto.cs",
               "DocumentMoniker": "D:\\UMH\\poo2\\UMH-POO\\GarajeMVC\\GarajeMVC\\Models\\Auto.cs",
               "RelativeDocumentMoniker": "GarajeMVC\\Models\\Auto.cs",
               "ToolTip": "D:\\UMH\\poo2\\UMH-POO\\GarajeMVC\\GarajeMVC\\Models\\Auto.cs",
               "RelativeToolTip": "GarajeMVC\\Models\\Auto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T01:18:49.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Garage.cs",
               "DocumentMoniker": "D:\\UMH\\poo2\\UMH-POO\\GarajeMVC\\GarajeMVC\\Models\\Garage.cs",
               "RelativeDocumentMoniker": "GarajeMVC\\Models\\Garage.cs",
               "ToolTip": "D:\\UMH\\poo2\\UMH-POO\\GarajeMVC\\GarajeMVC\\Models\\Garage.cs",
               "RelativeToolTip": "GarajeMVC\\Models\\Garage.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T01:13:19.369Z",
               "EditorCaption": ""
