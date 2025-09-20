@@ -38,8 +38,7 @@
               "RelativeToolTip": "GarajeMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-20T01:43:59.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T01:43:59.006Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "GarajeMVC\\Models\\Auto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T01:18:49.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T01:18:49.682Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "GarajeMVC\\Models\\Garage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T01:13:19.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T01:13:19.369Z"
             }
           ]
         }
